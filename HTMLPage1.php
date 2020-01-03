@@ -6,8 +6,9 @@
     <title></title>
 </head>
 <body style="font-size: 400%">
-    <?
+    <?php
         echo date("Y/m/d H:i:s")
     ?>
+
 </body>
 </html>
